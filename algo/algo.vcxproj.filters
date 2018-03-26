@@ -25,6 +25,12 @@
     <Filter Include="소스 파일\if">
       <UniqueIdentifier>{d618a5ba-9eaf-4c4f-8095-84f9d57acf5e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\함수">
+      <UniqueIdentifier>{81cb6c04-3875-4359-a2bb-2d2e3b85b821}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\1차원배열">
+      <UniqueIdentifier>{f20308e8-eee6-4fc5-b8ec-401a91d1e70e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="a+b.cpp">
@@ -77,6 +83,27 @@
     </ClCompile>
     <ClCompile Include="평균은넘겠지.cpp">
       <Filter>소스 파일\if</Filter>
+    </ClCompile>
+    <ClCompile Include="더하기 사이클.cpp">
+      <Filter>소스 파일\if</Filter>
+    </ClCompile>
+    <ClCompile Include="셀프넘버.cpp">
+      <Filter>소스 파일\함수</Filter>
+    </ClCompile>
+    <ClCompile Include="한수.cpp">
+      <Filter>소스 파일\함수</Filter>
+    </ClCompile>
+    <ClCompile Include="단어의개수.cpp">
+      <Filter>소스 파일\1차원배열</Filter>
+    </ClCompile>
+    <ClCompile Include="숫자의개수.cpp">
+      <Filter>소스 파일\1차원배열</Filter>
+    </ClCompile>
+    <ClCompile Include="ox퀴즈.cpp">
+      <Filter>소스 파일\1차원배열</Filter>
+    </ClCompile>
+    <ClCompile Include="음계.cpp">
+      <Filter>소스 파일\1차원배열</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

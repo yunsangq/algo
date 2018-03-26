@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\입출력">
+      <UniqueIdentifier>{add99176-eedc-4bcd-ae3b-5d421a90ab6e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\사칙연산">
+      <UniqueIdentifier>{9acd5d18-a93d-4efc-aece-484887e1c83c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\for">
+      <UniqueIdentifier>{2a94e5f1-b1bd-4af3-b0f1-32da2d4a7f95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\if">
+      <UniqueIdentifier>{d618a5ba-9eaf-4c4f-8095-84f9d57acf5e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="a+b.cpp">
+      <Filter>소스 파일\입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="helloworld.cpp">
+      <Filter>소스 파일\입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="그대로출력하기.cpp">
+      <Filter>소스 파일\입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="그대로출력하기2.cpp">
+      <Filter>소스 파일\입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="나머지.cpp">
+      <Filter>소스 파일\사칙연산</Filter>
+    </ClCompile>
+    <ClCompile Include="설탕 배달.cpp">
+      <Filter>소스 파일\사칙연산</Filter>
+    </ClCompile>
+    <ClCompile Include="N찍기.cpp">
+      <Filter>소스 파일\for</Filter>
+    </ClCompile>
+    <ClCompile Include="합.cpp">
+      <Filter>소스 파일\for</Filter>
+    </ClCompile>
+    <ClCompile Include="2007년.cpp">
+      <Filter>소스 파일\for</Filter>
+    </ClCompile>
+    <ClCompile Include="숫자의합.cpp">
+      <Filter>소스 파일\for</Filter>
+    </ClCompile>
+    <ClCompile Include="열개씩.cpp">
+      <Filter>소스 파일\for</Filter>
+    </ClCompile>
+    <ClCompile Include="빠른ab.cpp">
+      <Filter>소스 파일\for</Filter>
+    </ClCompile>
+    <ClCompile Include="시험성적.cpp">
+      <Filter>소스 파일\if</Filter>
+    </ClCompile>
+    <ClCompile Include="세수.cpp">
+      <Filter>소스 파일\if</Filter>
+    </ClCompile>
+    <ClCompile Include="x보다작은수.cpp">
+      <Filter>소스 파일\if</Filter>
+    </ClCompile>
+    <ClCompile Include="평균.cpp">
+      <Filter>소스 파일\if</Filter>
+    </ClCompile>
+    <ClCompile Include="평균은넘겠지.cpp">
+      <Filter>소스 파일\if</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

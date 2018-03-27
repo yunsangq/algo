@@ -34,6 +34,9 @@
     <Filter Include="소스 파일\문자열">
       <UniqueIdentifier>{33c94f38-be12-4bfe-8abc-a3180f70a4b4}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\규칙찾기">
+      <UniqueIdentifier>{8ca67b09-18cf-47a0-b7ec-0b72ae969c1e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="a+b.cpp">
@@ -134,6 +137,12 @@
     </ClCompile>
     <ClCompile Include="크로아티아알파벳.cpp">
       <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="벌집.cpp">
+      <Filter>소스 파일\규칙찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="분수찾기.cpp">
+      <Filter>소스 파일\규칙찾기</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

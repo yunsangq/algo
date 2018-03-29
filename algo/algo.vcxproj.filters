@@ -37,6 +37,9 @@
     <Filter Include="소스 파일\규칙찾기">
       <UniqueIdentifier>{8ca67b09-18cf-47a0-b7ec-0b72ae969c1e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\정렬">
+      <UniqueIdentifier>{6ff136d0-1c94-4b2e-9251-920326ab29a2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="a+b.cpp">
@@ -143,6 +146,27 @@
     </ClCompile>
     <ClCompile Include="분수찾기.cpp">
       <Filter>소스 파일\규칙찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="flyme.cpp">
+      <Filter>소스 파일\규칙찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="acm호텔.cpp">
+      <Filter>소스 파일\규칙찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="부녀회장이될테야.cpp">
+      <Filter>소스 파일\규칙찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="방번호.cpp">
+      <Filter>소스 파일\규칙찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="카잉달력.cpp">
+      <Filter>소스 파일\규칙찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="수정렬.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="수정렬2.cpp">
+      <Filter>소스 파일\정렬</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

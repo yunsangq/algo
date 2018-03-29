@@ -40,6 +40,9 @@
     <Filter Include="소스 파일\정렬">
       <UniqueIdentifier>{6ff136d0-1c94-4b2e-9251-920326ab29a2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\소수">
+      <UniqueIdentifier>{2edb9c9a-9091-4040-a38a-71c40d5b057a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="a+b.cpp">
@@ -167,6 +170,30 @@
     </ClCompile>
     <ClCompile Include="수정렬2.cpp">
       <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="수정렬3.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="통계학.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="소트인사이드.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="소수찾기.cpp">
+      <Filter>소스 파일\소수</Filter>
+    </ClCompile>
+    <ClCompile Include="단어정렬.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="소수.cpp">
+      <Filter>소스 파일\소수</Filter>
+    </ClCompile>
+    <ClCompile Include="소수구하기.cpp">
+      <Filter>소스 파일\소수</Filter>
+    </ClCompile>
+    <ClCompile Include="베르트랑공준.cpp">
+      <Filter>소스 파일\소수</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

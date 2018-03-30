@@ -52,6 +52,15 @@
     <Filter Include="소스 파일\피보나치">
       <UniqueIdentifier>{79aacc15-023c-4739-8676-25f9f14c3d1a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\동적계획법">
+      <UniqueIdentifier>{7cc3a1e1-6271-4a12-9a6d-431d9c9cc693}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\이항계수">
+      <UniqueIdentifier>{87693c92-efda-43c8-81b8-ac9f4f6e09a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\그래프%28dfs,bfs%29">
+      <UniqueIdentifier>{7ca64e95-c7fc-4c03-ab03-0affde3e78b1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="a+b.cpp">
@@ -233,6 +242,30 @@
     </ClCompile>
     <ClCompile Include="피보나치2.cpp">
       <Filter>소스 파일\피보나치</Filter>
+    </ClCompile>
+    <ClCompile Include="%28x%29피보나치3.cpp">
+      <Filter>소스 파일\피보나치</Filter>
+    </ClCompile>
+    <ClCompile Include="rgb거리.cpp">
+      <Filter>소스 파일\동적계획법</Filter>
+    </ClCompile>
+    <ClCompile Include="이항계수.cpp">
+      <Filter>소스 파일\이항계수</Filter>
+    </ClCompile>
+    <ClCompile Include="팩토리얼.cpp">
+      <Filter>소스 파일\이항계수</Filter>
+    </ClCompile>
+    <ClCompile Include="계단오르기.cpp">
+      <Filter>소스 파일\동적계획법</Filter>
+    </ClCompile>
+    <ClCompile Include="1로만들기.cpp">
+      <Filter>소스 파일\동적계획법</Filter>
+    </ClCompile>
+    <ClCompile Include="단지번호붙이기.cpp">
+      <Filter>소스 파일\그래프%28dfs,bfs%29</Filter>
+    </ClCompile>
+    <ClCompile Include="미로탐색.cpp">
+      <Filter>소스 파일\그래프%28dfs,bfs%29</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

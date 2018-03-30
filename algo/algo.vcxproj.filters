@@ -46,6 +46,12 @@
     <Filter Include="소스 파일\스택">
       <UniqueIdentifier>{ced59c0b-79bc-4806-b88a-81bbe0b4d1f9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\큐">
+      <UniqueIdentifier>{8cde0ebc-b102-44af-92ae-955144d909ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\피보나치">
+      <UniqueIdentifier>{79aacc15-023c-4739-8676-25f9f14c3d1a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="a+b.cpp">
@@ -212,6 +218,21 @@
     </ClCompile>
     <ClCompile Include="괄호의값.cpp">
       <Filter>소스 파일\스택</Filter>
+    </ClCompile>
+    <ClCompile Include="큐.cpp">
+      <Filter>소스 파일\큐</Filter>
+    </ClCompile>
+    <ClCompile Include="dfs와bfs.cpp">
+      <Filter>소스 파일\큐</Filter>
+    </ClCompile>
+    <ClCompile Include="%28x%29프린터큐.cpp">
+      <Filter>소스 파일\큐</Filter>
+    </ClCompile>
+    <ClCompile Include="피보나치.cpp">
+      <Filter>소스 파일\피보나치</Filter>
+    </ClCompile>
+    <ClCompile Include="피보나치2.cpp">
+      <Filter>소스 파일\피보나치</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

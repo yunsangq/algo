@@ -33,7 +33,6 @@ void qsort(int s, int e) {
 }
 
 
-
 int main() {
 	int n;
 	scanf("%d", &n);

@@ -43,6 +43,9 @@
     <Filter Include="소스 파일\소수">
       <UniqueIdentifier>{2edb9c9a-9091-4040-a38a-71c40d5b057a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\스택">
+      <UniqueIdentifier>{ced59c0b-79bc-4806-b88a-81bbe0b4d1f9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="a+b.cpp">
@@ -194,6 +197,21 @@
     </ClCompile>
     <ClCompile Include="베르트랑공준.cpp">
       <Filter>소스 파일\소수</Filter>
+    </ClCompile>
+    <ClCompile Include="골드바흐의추측.cpp">
+      <Filter>소스 파일\소수</Filter>
+    </ClCompile>
+    <ClCompile Include="스택.cpp">
+      <Filter>소스 파일\스택</Filter>
+    </ClCompile>
+    <ClCompile Include="스택수열.cpp">
+      <Filter>소스 파일\스택</Filter>
+    </ClCompile>
+    <ClCompile Include="괄호.cpp">
+      <Filter>소스 파일\스택</Filter>
+    </ClCompile>
+    <ClCompile Include="괄호의값.cpp">
+      <Filter>소스 파일\스택</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
